@@ -1,16 +1,3 @@
-<!--
-Template Name: App Star
-Title: Free android ios mobile app landing page template theme html5 bootstrap
-Description: App Star - free landing page templates html5 best for creating an android mobile template or ios app landing pages built with bootstrap.
-Keyword: free landing page templates html5, android mobile template, ios app landing page, mobile app theme bootstrap, app landing page template bootstrap free
-Author: Bootstrap Website Templates
-Author URI: https://bootstrapwebtemplates.com/
-Template URI: https://bootstrapwebtemplates.com/free-android-ios-mobile-app-landing-page-template-html5-bootstrap
-Tags: app landing page, app Showcase, app template, app website, clean app landing, creative app landing page, mobile app landing page, modern app landing, free landing page templates html5, android mobile template, ios app landing page, mobile app theme bootstrap, app landing page template bootstrap free
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
--->
-
 <!DOCTYPE html>
 <html>
 
@@ -85,12 +72,13 @@ License URL: http://creativecommons.org/licenses/by/3.0/
             <div class="container bwt-overlayup">
                 <div class="row head-body">
                     <div class="col-md-8 col-xs-12 head-items">
-                        <h1 class="text-capitalize">Sáude na palma da mão <br><span
-                                class="text-uppercase">HarmonyLife</span></h1>
-                        <p class="banner-text">O melhor aplicativo de evolução corporal de forma gamificada. Acompanhe a evolução corporal de seus clientes etapa por etapa, com
-                            relatório gráficos e muito mais.</p>
-                        <p class="banner-text">Se comunique com seus clientes de forma efetiva, criando pontuação cadastrando brindes 
-                            e estimulando o prograsso de seus clientes </p>
+                    <!-- <h1 class="text-capitalize">Saúde na palma da mão <br><span class="text-uppercase">HarmonyLife</span></h1> -->
+
+                         <h1><span class="text-uppercase">HarmonyLife</span></h1>
+                                <p class="banner-text">Acabe agora com as planilhas complicadas, fichas de papel motive o simplifique o relacionamento com seu cliente de forma simples e divertida </p>
+                        <p class="banner-text">O melhor aplicativo de evolução corporal gamificado para profíssionais da saúde. Acompanhe a evolução corporal de seus clientes etapa por etapa, com
+                            relatório gráficos e muito mais. E envie direto por WhatsApp</p>
+                        <p class="banner-text">Se comunique com seus clientes de forma efetiva, com envio de relatórios, gráficos composição corporal, dobras cutaneas, medidas, mantenha um histórico detalhado e com fácil acesso na palma de sua mão</p>
                         <a href="#" class="btn btn-primary text-uppercase"><i class="fa fa-download"></i>Obter
                             agora!</a>
                     </div>
@@ -116,21 +104,24 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                     <img class="img-responsive" src="img/jhon.png">
                 </div>
                 <div class="col-md-6 col-xs-12 explore">
-                    <h3>Introducing the most advanced social app on the market, the one you always wanted.</h3>
-                    <p>Nec lacinia. Quod dicta donec perspiciatis rutrum saepe egestas, porro repellat curabitur,
-                        blandit rerum nostrud id conubia phasellus officiis penatibus ac fringilla delectus eu cum
-                        platea aspernatur taciti, maecenas natoque reiciendis aenean.</p>
+                    <h3>Acompanhamento nutricional e físico de perto de forma simples e divertida.</h3>
+                    <p>O Harmony Life é uma plataforma completa de acompanhamento corporal, nutricional e físico </p>
                     <ul class="list-unstyled">
-                        <li>Nec lacinia. Quod dicta donec perspiciatis rutrum</li>
-                        <li>saepe egestas, porro repellat curabitur</li>
-                        <li>blandit rerum nostrud id conubia phasellus officiis</li>
-                        <li>penatibus ac fringilla delectus eu cum platea</li>
-                        <li>aspernatur taciti, maecenas natoque reiciendis aenean</li>
+                        <li>Relatórios graficos de fácil entendimento</li>
+                        <li>Percentual de gordura corporal</li>
+                        <li>Percentual de maça magra</li>
+                        <li>Histórico completo de todas as avaliações</li>
+                        <li>Composição corporal e medidas</li>
+                        <li>Diagnóstico de obesidade</li>
+                        <li>Idade Corporal</li>
                     </ul>
                     <div class="buttons">
-                        <img src="img/google-play-badge.png">
-                        <img src="img/app-store-badge.png">
-                        <img src="img/windows-badge.png">
+                        
+                        <a href="https://play.google.com/store/apps/details?id=com.CriarGames.HarmonyLife">
+                        <img src="img/google-play-badge.png" >
+                        </a>
+                        <!-- <img src="img/app-store-badge.png">
+                        <img src="img/windows-badge.png"> -->
                     </div>
                 </div>
             </div>
@@ -150,7 +141,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                     </div>
                     <h3>Clientes</h3>
                     <p>
-                        Efetue o cadastro de todos os seus clientes.
+                        Efetue o cadastro de todos os seus clientes. O único com cadastros ilimitados.
                     </p>
                 </div>
                 <div class="col-md-3 col-sm-6 feature-block">
@@ -159,7 +150,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                     </div>
                     <h3>Históricos</h3>
                     <p>
-                        Tenha o histórico da evolução de seus clientes de formas simples rápida e fácil!
+                        Tenha o histórico da evolução de seus clientes de formas simples rápida e fácil.
                     </p>
                 </div>
                 <div class="col-md-3 col-sm-6 feature-block">
@@ -168,8 +159,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                     </div>
                     <h3>Gráficos</h3>
                     <p>
-                        Saiba de forma simples como esta a gordura corporal de seus clientes imc e muito mais, através
-                        de gráficos por atendimentos!
+                        Percentual de gordura e de massa magra com gráficos simples e de fácil entendimento.
                     </p>
                 </div>
                 <div class="col-md-3 col-sm-6 feature-block">
@@ -178,10 +168,9 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                     </div>
                     <h3>Comunicação</h3>
                     <p>
-                        Mantenha uma comunicação efetiva com seus clientes, enviando relatórios, imagens ou permitas que
-                        seu clientes acompanhe através do app cliente.
+                    Apresentação de dados de forma divertida rápida e de fácil compreenção.
                     </p>
-                </div>
+                </div>                
             </div>
         </div>
     </section>
@@ -242,19 +231,25 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                 <div class="col-xs-offset-0 col-xs-12 col-sm-offset-1 col-sm-10 col-md-offset-0 col-md-4">
                     <div class="price-box">
                         <div class="price-head">
-                            <h5>PERSONAL</h5>
+                            <h5>FREE</h5>
                             <h3><span>R$</span> Free</h3>
                         </div>
                         <div class="cost-info">
                             <ul class="list-unstyled">
-                                <li><i class="fa fa-star"></i> 1 Users</li>
-                                <li><i class="fa fa-star"></i> 16 GB Cloud Storage</li>
-                                <li><i class="fa fa-star"></i> Regular Updates</li>
-                                <li class="light"><i class="fa fa-star"></i> eCommerce Integration</li>
-                                <li class="light"><i class="fa fa-star"></i> Interface Customization</li>
-                                <li class="light"><i class="fa fa-star"></i> 24/7 Support</li>
+                            <!-- <li class="light"><i class="fa fa-star"></i> Gráficos Animados</li>  Detalhes de estrelas-->
+                                <li><i class="fa fa-star"></i> Clientes ilimitados</li>
+                                <li><i class="fa fa-star"></i> Bioimpedância </li>
+                                <li><i class="fa fa-star"></i> Medidas</li>
+                                <li><i class="fa fa-star"></i> Avaliação pelo WhatsApp</li>
+                                <li><i class="fa fa-star"></i> Compartilhar Facebook</li>
+                                <li><i class="fa fa-star"></i> Anamnese</li>
+                                <li><i class="fa fa-star"></i> Tempo real</li>
+                                <li><i class="fa fa-star"></i> Gráficos Animados</li>
+                                <li><i class="fa fa-star"></i> Relatórios de evolução</li>
+                                <li><i class="fa fa-star"></i> Suporte por e-mail</li>
+                                <li><i class="fa fa-star"></i> 7 Dias ilimitados</li>
                             </ul>
-                            <a class="btn btn-secondary" href="#">ORDER NOW</a>
+                            <a class="btn btn-secondary" href="#">Obter Agora</a>
                         </div>
                     </div>
                 </div>
@@ -262,18 +257,24 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                     <div class="price-box">
                         <div class="price-head">
                             <h5>MENSAL</h5>
-                            <h3><span>$</span> 9,99</h3>
+                            <h3><span>$</span> 19,90</h3>
                         </div>
                         <div class="cost-info">
-                            <ul class="list-unstyled">
-                                <li><i class="fa fa-star"></i> Usuários Ilimitados</li>
-                                <li><i class="fa fa-star"></i> Acesso ao sistema online</li>
-                                <li><i class="fa fa-star"></i> Gráficos de Evolução</li>
-                                <li><i class="fa fa-star"></i> eCommerce Integration</li>
-                                <li class="light"><i class="fa fa-star"></i> Interface Customization</li>
-                                <li class="light"><i class="fa fa-star"></i> Economia de R$20.00</li>
+                        <ul class="list-unstyled">
+                            <!-- <li class="light"><i class="fa fa-star"></i> Gráficos Animados</li>  Detalhes de estrelas-->
+                                <li><i class="fa fa-star"></i> Clientes ilimitados</li>
+                                <li><i class="fa fa-star"></i> Bioimpedância </li>
+                                <li><i class="fa fa-star"></i> Medidas</li>
+                                <li><i class="fa fa-star"></i> Avaliação pelo WhatsApp</li>
+                                <li><i class="fa fa-star"></i> Compartilhar Facebook</li>
+                                <li><i class="fa fa-star"></i> Anamnese</li>
+                                <li><i class="fa fa-star"></i> Tempo real</li>
+                                <li><i class="fa fa-star"></i> Gráficos Animados</li>
+                                <li><i class="fa fa-star"></i> Relatórios de evolução</li>
+                                <li><i class="fa fa-star"></i> Suporte por e-mail</li>
+                                <li><i class="fa fa-star"></i> 30 Dias ilimitados</li>
                             </ul>
-                            <a class="btn btn-secondary" href="#">ORDER NOW</a>
+                            <a class="btn btn-secondary" href="#">Obter Agora</a>
                         </div>
                     </div>
                 </div>
@@ -281,18 +282,25 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                     <div class="price-box">
                         <div class="price-head">
                             <h5>ANUAL</h5>
-                            <h3><span>R$</span> 99,90</h3>
+                            <h3><span>R$</span> 199,90</h3>
                         </div>
                         <div class="cost-info">
-                            <ul class="list-unstyled">
-                                <li><i class="fa fa-star"></i> 20 Users</li>
-                                <li><i class="fa fa-star"></i> 16 GB Cloud Storage</li>
-                                <li><i class="fa fa-star"></i> Regular Updates</li>
-                                <li><i class="fa fa-star"></i> eCommerce Integration</li>
-                                <li><i class="fa fa-star"></i> Interface Customization</li>
-                                <li><i class="fa fa-star"></i> 24/7 Support</li>
+                        <ul class="list-unstyled">
+                            <!-- <li class="light"><i class="fa fa-star"></i> Gráficos Animados</li>  Detalhes de estrelas-->
+                                <li><i class="fa fa-star"></i> Clientes ilimitados</li>
+                                <li><i class="fa fa-star"></i> Bioimpedância </li>
+                                <li><i class="fa fa-star"></i> Medidas</li>
+                                <li><i class="fa fa-star"></i> Avaliação pelo WhatsApp</li>
+                                <li><i class="fa fa-star"></i> Compartilhar Facebook</li>
+                                <li><i class="fa fa-star"></i> Anamnese</li>
+                                <li><i class="fa fa-star"></i> Tempo real</li>
+                                <li><i class="fa fa-star"></i> Gráficos Animados</li>
+                                <li><i class="fa fa-star"></i> Relatórios de evolução</li>
+                                <li><i class="fa fa-star"></i> Suporte por e-mail</li>
+                                <li><i class="fa fa-star"></i> 360 Dias ilimitados</li>
+                                <li><i class="fa fa-star"></i> Plaforma online Liberada</li>
                             </ul>
-                            <a class="btn btn-secondary" href="#">Obter Agoroa</a>
+                            <a class="btn btn-secondary" href="#">Obter Agora</a>
                         </div>
                     </div>
                 </div>
@@ -376,13 +384,13 @@ License URL: http://creativecommons.org/licenses/by/3.0/
     <section id="bwt-newsletter" class="newsletter-section">
         <div class="blur">
             <div class="container">
-                <h4 class="sub-title">Subscribe</h4>
-                <h2 class="title">Our Newsletter</h2>
+                <h4 class="sub-title">Inscreva se</h4>
+                <h2 class="title">RECEBE ATUALIZAÇÕES</h2>
                 <div class="newsletter-form">
                     <form>
                         <div class="form-group">
-                            <input type="email" class="form-control" id="email" placeholder="Enter your email here">
-                            <button type="submit" class="btn btn-default">SEND ME</button>
+                            <input type="email" class="form-control" id="email" placeholder="Digite seu melhor e-mail">
+                            <button type="submit" class="btn btn-default">INSCREVER</button>
                         </div>
                     </form>
                 </div>
@@ -395,24 +403,24 @@ License URL: http://creativecommons.org/licenses/by/3.0/
     <section id="bwt-contact" class="contact-section section">
         <div class="container text-center">
             <h4 class="sub-title">Contato</h4>
-            <h2 class="title">Get in touch</h2>
+            <h2 class="title">Nosso contato</h2>
             <div class="row text-left">
                 <div class="col-md-6 address">
                     <h5>Entre em contato</h5>
                     <p>Duvidas entre em contato com nossa equipe de atendimento agora e deixe suas duvidas e sujestões
                     </p>
-                    <div class="item">
+                    <!-- <div class="item">
                         <span class="icon"><img class="img-responsive" src="img/location.png"></span>
                         <div class="cont">
                             <h6>Endereço<ol></ol>
                             </h6>
                             <p>119 Pinnickinnick Street, Freehold, New Jersey, United States</p>
                         </div>
-                    </div>
+                    </div> -->
                     <div class="item">
                         <span class="icon"><img class="img-responsive" src="img/smartphone.png"></span>
                         <div class="cont">
-                            <h6>Phone</h6>
+                            <h6>WhatsApp</h6>
                             <p>+55 (16)99219-6512, +(16)99219-6512</p>
                         </div>
                     </div>
@@ -463,9 +471,9 @@ License URL: http://creativecommons.org/licenses/by/3.0/
             <div class="social footer-social">
                 <ul class="list-inline">
                     <li><a href="#" class="fa fa-facebook" aria-hidden="true"></a></li>
-                    <li><a href="#" class="fa fa-twitter" aria-hidden="true"></a></li>
+                    <!-- <li><a href="#" class="fa fa-twitter" aria-hidden="true"></a></li>
                     <li><a href="#" class="fa fa-linkedin" aria-hidden="true"></a></li>
-                    <li><a href="#" class="fa fa-google-plus" aria-hidden="true"></a></li>
+                    <li><a href="#" class="fa fa-google-plus" aria-hidden="true"></a></li> -->
                     <li><a href="#" class="fa fa-youtube" aria-hidden="true"></a></li>
                 </ul>
             </div>
